@@ -1,47 +1,44 @@
 {
-    "name": "彭 鹏",
-    "birth": "1991.05.12",
-    "tel": "18802051698",
-    "email": "peng6907743@163.com",
-    "blog": "https://www.jianshu.com/u/63f2d137cae4",
-    "avatar": "https://avatars0.githubusercontent.com/u/23524615",
+    "name": "别振宇",
+    "birth": "1994.08.15",
+    "tel": "136606xxxxxx",
+    "email": "biezhenyu521@163.com",
+    "blog": "https://segmentfault.com/u/smile_58bd2c1f62ea0/articles",
+    "avatar": "https://github.com/biezhenyu/myimages/blob/master/images/image.png",
     "pages": [],
     "summaries": [
-        "熟练使用HTML、CSS、JavaScript、jQuery、Ajax、json等前端基础知识；熟悉div+css布局。",
-        "熟悉响应式页面开发、webapp开发、rem布局以及flex布局，有丰富的开发经验。",
-        "熟练使用前端MVC框架Vue.js，以及其生态圈vue-router、vuex、axios等；对Angular.js和React.js有一定了解，能快速上手。",
-        "熟悉各种浏览器平台特性，能很好的解决兼容性问题。",
-        "熟悉SVN、Git、gulp、webpack等开发工具的使用。"
+        "概述第一行",
+        "概述第二行",
+        "概述第三行",
+        "概述第四行"
     ],
     "workExperiences": [
         {
-            "company": "广州奇艺果信息科技有限公司",
-            "post": "前端开发工程师",
-            "startDate": "2017.03",
+            "company": "大腿公司",
+            "post": "高级软件工程师",
+            "startDate": "2015.01",
             "endDate": "至今",
-            "summary": "公司电商项目、社交项目和物联网项目应用前端和管理后台的开发。",
+            "summary": "大腿公司的概述（可以不填）",
             "details": [
-                "物联网项目——云+物娱在线抓娃娃；支付、充值、用户管理；实时直播流接入和处理；利用websocket实现前后台指令通信。",
-                "社交应用——芥末圈；独立完成整个WebApp开发，包括支付、分享、个人管理、帖子主体模块以及音视频的上传和播放。",
-                "电商项目——为战旗、齐齐、么么等直播平台打造一个电商系统，主要是开发网购网站和相应各个供应商后台管理系统。",
-                "另外还独立负责芥末圈PC端、移动端官网；为芥末圈、电商平台完成了多次专题活动页面的开发。"
+                "大腿公司的细节一",
+                "大腿公司的细节二"
             ]
         },
         {
-            "company": "东莞君容信息技术有限公司",
-            "post": "前端开发工程师",
-            "startDate": "2015.08",
-            "endDate": "2016.12",
-            "summary": "公司官网、网上商城前端和管理后台的开发",
+            "company": "小牛公司",
+            "post": "软件工程师",
+            "startDate": "2013.07",
+            "endDate": "2015.01",
+            "summary": "小牛公司的概述（可以不填）",
             "details": [
-                "为了便于加大公司产品推广运行和交易，开发了公司自营的官方商城，包括搜索产品、下单、购物车、支付等功能。",
-                "完成公司官网开发，以便展示公司的相关信息、公司产品分类成型效果以及各自功能、收集客户的意见等。"
+                "小牛公司的细节一",
+                "小牛公司的细节二"
             ]
         }
     ],
     "projectExperiences": [
         {
-            "projectName": "云+物娱在线娃娃机",
+            "projectName": "牛逼的项目",
             "role": "主要开发成员",
             "startDate": "2015.01",
             "endDate": "2016.04",
@@ -53,7 +50,7 @@
             ]
         },
         {
-            "projectName": "芥末圈",
+            "projectName": "牛X的项目",
             "role": "兼职开发",
             "startDate": "2015.08",
             "endDate": "2015.11",
@@ -62,72 +59,73 @@
                 "牛X的项目细节一",
                 "牛X的项目细节二"
             ]
-        },
-        {
-            "projectName": " 直播平台商城",
-            "role": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": "",
-            "details": [
-                "",
-                ""
-            ]
-        },
-        {
-            "projectName": "芥末圈官网",
-            "role": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": "",
-            "details": [
-                "",
-                ""
-            ]
-        },
-        {
-            "projectName": "东莞君容项目",
-            "role": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": "",
-            "details": [
-                "",
-                ""
-            ]
         }
     ],
     "sections": [
         {
-            "title": "项目案例",
+            "title": "自定义模块一",
             "fragments": [
                 {
-                    "name": "",
-                    "comment": "M表示移动端",
-                    "startDate": "",
-                    "endDate": "",
-                    "summary": "",
+                    "name": "自定义模块一之——段落一",
+                    "comment": "副标题（可以缺省）",
+                    "startDate": "开始日期（可缺省）",
+                    "endDate": "结束日期（可缺省）",
+                    "summary": "blablablablabla",
                     "details": [
-                        "芥末圈（M）—— https://qzh5.artqiyi.cn/?",
-                        "娃娃机（M）—— h5wwjmall.artqiyi.com/?",
-                        "芥末圈官网 —— http://www.jiemoquan360.com/",
-                        "电商 —— http://woxiu.artqiyi.com/open/index/shop?zb_id=0qVdms_RnsnZm8eczw"
+                        "细节1234"
+                    ]
+                },
+                {
+                    "name": "自定义模块一之——段落二",
+                    "comment": "副标题（可以缺省）",
+                    "startDate": "开始日期（可缺省）",
+                    "endDate": "结束日期（可缺省）",
+                    "summary": "blablablablabla",
+                    "details": [
+                        "细节5678"
                     ]
                 }
-            ],
-            "points": []
+            ]
+        },
+        {
+            "title": "自定义模块二",
+            "fragments": [
+                {
+                    "name": "自定义模块二之段落一",
+                    "comment": "副标题（可以缺省）",
+                    "startDate": "开始日期（可缺省）",
+                    "endDate": "结束日期（可缺省）",
+                    "summary": "blablablablabla",
+                    "details": [
+                        "细节1234"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "自定义模块三",
+            "points": [
+                "列表1",
+                "列表2",
+                "列表3"
+            ]
         }
     ],
     "educations": [
         {
-            "university": "南京航空航天大学",
+            "university": "华南农业大学",
             "studyType": "本科",
-            "major": "电子信息科学与技术",
-            "startDate": "2011.09",
-            "endDate": "2015.07",
-            "gpa": "",
-            "scholarships": [],
-            "experiences": []
+            "major": "软件工程",
+            "startDate": "2009.07",
+            "endDate": "2013.07",
+            "gpa": "3.93/5.00",
+            "scholarships": [
+                "二等奖学金"
+            ],
+            "experiences": [
+                "在校经历一",
+                "在校经历二"
+            ]
         }
     ]
 }
